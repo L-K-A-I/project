@@ -1,0 +1,8 @@
+﻿  TextSimilarity.cpp
+e:\比特\项目\textsimilarity\ts\ts\textsimilarity.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+e:\比特\项目\textsimilarity\ts\ts\textsimilarity.cpp(189): warning C4018: “<”: 有符号/无符号不匹配
+e:\比特\项目\textsimilarity\ts\ts\textsimilarity.cpp(195): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  test.cpp
+  TS.vcxproj -> E:\比特\项目\TextSimilarity\TS\Debug\TS.exe
